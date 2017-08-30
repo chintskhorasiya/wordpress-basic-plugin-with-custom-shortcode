@@ -15,7 +15,7 @@ Includes the following files
 There two shortcodes in this plugin which I have already added
 
 * **[service_pricing_table]** – to display list of courses on frontend any page or custom post
-* **[online_form_course_fields course="field-id" type="field-id" price="field-id"]** – this something for out of this plugin, sometimes you have work with forms , so this is for getting yours courses and its pricing on [https://wordpress.org/plugins/visual-form-builder/](Visual Form Builder) forms , you have to just pass field-ids in manner.
+* **[online_form_course_fields course="field-id" type="field-id" price="field-id"]** – this something for out of this plugin, sometimes you have work with forms , so this is for getting yours courses and its pricing on [https://wordpress.org/plugins/visual-form-builder](Visual Form Builder) forms , you have to just pass field-ids in manner.
 
 Take your time and perform all operations: _select, insert, update and delete_
 
